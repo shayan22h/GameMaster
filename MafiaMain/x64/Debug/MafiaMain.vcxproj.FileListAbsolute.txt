@@ -1,0 +1,2 @@
+C:\Users\shajghasem\SandBox\C++\Mafia\MafiaMain\x64\Debug\MafiaMain.exe
+C:\Users\shajghasem\SandBox\Mafia\MafiaMain\x64\Debug\MafiaMain.exe
